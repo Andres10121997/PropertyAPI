@@ -1,5 +1,8 @@
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 
-namespace PropertyAPI
+namespace PropertyAPI.App.Start
 {
     public class Program
     {
